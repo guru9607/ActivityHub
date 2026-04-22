@@ -15,3 +15,7 @@ obj/
 API/appsettings.json
 Persistence/Persistence/Migrations/20260419084145_InitialCreate.cs
 Persistence/Persistence/Migrations/20260419084145_InitialCreate.Designer.cs
+API/activityhub.db-shm
+.gitignore
+API/activityhub.db-shm
+API/activityhub.db-wal
